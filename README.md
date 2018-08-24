@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Our knowledge of the South Africa, SADC and Africa make us a natural partner for multinationals seeking to enter these markets. Gun Tracking is one of our revolutionary products aiming at providing safe ty and better security in RSA
